@@ -12,7 +12,7 @@ specifications.
 For days whose inputs required special properties, those special properties have
 been (mostly) replicated here.
 
-The generator is [here](https://github.com/mattcl/challengr/examples/aoc2023).
+The generator is [here](https://github.com/mattcl/challengr/tree/master/examples/aoc2023).
 
 ## Note about day 24's inputs:
 
