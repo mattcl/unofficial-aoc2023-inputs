@@ -1,0 +1,58 @@
+&pi -> qk, xx, rk, sp, pk, cq, rh
+%pk -> cq
+%wm -> vp
+%vr -> dr
+%ts -> cu
+%gt -> kt
+%sh -> oc
+%bj -> ye
+%uv -> kt, cw
+%fu -> ab
+%eo -> kt, ps
+%bo -> sq
+%oc -> kt, qw
+%sp -> wq
+%un -> pi, jk
+%ab -> rj, ov
+&xx -> ix
+%ye -> cu, vr
+%gh -> cu, bj
+&ow -> ix
+%mv -> cu, zq
+&gk -> ix
+%ry -> cu, mv
+%zb -> pi, un
+broadcaster -> qk, zg, lq, xq
+%vp -> ii
+%tg -> cu, ms
+%zg -> kt, ai
+%rh -> xw
+%sq -> rj, rc
+%pa -> kt, me
+%xq -> rj, wm
+%wq -> pi, zb
+%ps -> kt, uv
+%fq -> it
+%zq -> cu, tg
+%qk -> pi, rk
+%ms -> gh
+%lq -> cu, ry
+%ai -> eo
+%ov -> rj
+&kt -> zg, ai, dp, me, sh
+&ix -> rx
+%ii -> rj, fq
+%cq -> rh
+%rk -> ga
+&cu -> lq, ms, gk, bj, vr, dr
+%rc -> fu
+%dr -> ts
+%jk -> pi, pk
+&rj -> xq, wm, vp, fq, ow, it, bo, rc, fu
+&dp -> ix
+%xw -> pi
+%qw -> kt, gt
+%ga -> pi, sp
+%cw -> kt, pa
+%me -> sh
+%it -> bo
